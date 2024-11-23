@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #111827;
+}
+
+span{
+    color: white;
+    padding: 8px;
+    background-color: rgb(66, 137, 219);
+    margin: 10px;
+}
